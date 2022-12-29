@@ -1,0 +1,28 @@
+فارسی:
+این یک برنامه با جنبه ی فان است که در آن شما با فشار دادن کیلید های مختلف
+رنگ صفحه را تغیر دهید
+
+کیلید ها:
+
+r: "قرمز"
+g: "سبز"
+b: "آبی"
+w: "سفید"
+y: "زرد"
+SPACE: رنگ سیاه" و خاموش"
+______
+______
+______
+English:
+مترجم فارسی ⇄ انگلیسی
+This is a fun aspect program where you press different keys
+Change the color of the screen
+
+Keys:
+
+r: "red"
+g: "green"
+b: "blue"
+w: "white"
+y: "yellow"
+SPACE: black color and off
